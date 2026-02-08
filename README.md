@@ -56,6 +56,9 @@ To clone this repository and start working on your local machine, run:
 
 ```bash
 git clone https://github.com/yourusername/repository.git
+
+## Log In Information
+
 THE ADMIN LOG IN CREDENTIALS ARE
 email: nyanjomadmin1@gmail.com
 Password: Nyanjom531723#
