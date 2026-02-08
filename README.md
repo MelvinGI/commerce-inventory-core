@@ -56,3 +56,8 @@ To clone this repository and start working on your local machine, run:
 
 ```bash
 git clone https://github.com/yourusername/repository.git
+THE ADMIN LOG IN CREDENTIALS ARE
+email: nyanjomadmin1@gmail.com
+Password: Nyanjom531723#
+
+FOR THE SUPPLIER LOG IN CREDENTIALS, AN ADMIN ACCOUNT CAN CREATE A SUPPLIER ADMIN IN THE ADMINS DASHBOARD. THEN A BUYER CREATES THEIR ACCOUNT FOR THEMSELVES.
